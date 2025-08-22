@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(206, 185, 153);
+
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin:auto;
+}

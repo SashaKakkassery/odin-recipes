@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(235, 234, 186);
+}
+
+h1{
+    text-align: center;
+}
+
+.picture{
+    display: block;
+    margin:auto
+}
+    
